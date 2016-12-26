@@ -1,0 +1,46 @@
+@CHARSET "UTF-8";
+
+div{
+	background-color: #606060; 
+	width: 600px;
+	margin-left: 300px;
+	margin-top: 20px;
+}
+
+table{
+	font-family: Arial;
+	color:black;
+	font-size: 18pt;
+}
+
+#botaosalvar{
+	margin-left: 250px;
+}
+
+.linksVermelhos {
+	color: red;
+	font-weight: bold;
+	font-style: Arial;
+	 background-color: yellow;
+}
+
+#titulo{
+	margin-left: 350px;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+body {
+	
+	font-weight: bold;
+	font-style: Arial;
+}
+
+
+
+a{
+	text-decoration: none;
+	
+	font-family: cursive;
+	
+}
